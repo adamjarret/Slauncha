@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slauncha", "Slauncha\Slauncha.csproj", "{216E554C-D218-4730-9005-212A22496B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216E554C-D218-4730-9005-212A22496B23}.Debug|x86.ActiveCfg = Debug|x86
+		{216E554C-D218-4730-9005-212A22496B23}.Debug|x86.Build.0 = Debug|x86
+		{216E554C-D218-4730-9005-212A22496B23}.Release|x86.ActiveCfg = Release|x86
+		{216E554C-D218-4730-9005-212A22496B23}.Release|x86.Build.0 = Release|x86
+		{E021EDCF-3A8C-41FB-B4CF-943F7EE64ED7}.Debug|x86.ActiveCfg = Debug|x86
+		{E021EDCF-3A8C-41FB-B4CF-943F7EE64ED7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
